@@ -8,7 +8,7 @@ Methods like Add, Remove, and Shuffle can be called on a collection of cards.
 
 ## Visual
 
-![CardDeck](./Assets/carddeck.PNG)
+![CardDeck](./CardDeck/Assets/carddeck.PNG)
 
 ## Usage
 
